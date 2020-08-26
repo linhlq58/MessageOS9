@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MessengerOS10</string>
+    <string name="messsage">Tin nhắn</string>
+    <string name="new_message">Tin nhắn mới</string>
+    <string name="edit">Sửa</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="back">Trở về</string>
+    <string name="cancel">Hủy</string>
+    <string name="all">Tất cả</string>
+    <string name="delete">Xóa</string>
+    <string name="confirm_delete">Xác nhận xóa</string>
+    <string name="detail">Chi tiết</string>
+    <string name="confirm_text">Bạn có chắc chắn muốn xóa tin nhắn này?</string>
+    <string name="sim_error">Lỗi SIM!</string>
+    <string name="settings">Cài đặt</string>
+    <string name="interface_text">GIAO DIỆN</string>
+    <string name="other_settings">CÀI ĐẶT KHÁC</string>
+    <string name="theme">Chủ đề</string>
+    <string name="background">Hình nền</string>
+    <string name="blur">Làm mờ</string>
+    <string name="textsize">Cỡ chữ</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="sound">Âm thanh</string>
+    <string name="vibrate">Rung</string>
+    <string name="reset_to_default">Đặt về mặc định</string>
+    <string name="choose_language">Chọn ngôn ngữ</string>
+    <string name="choose_theme">CHỌN CHỦ ĐỀ</string>
+    <string name="text_size_content">Phần mềm hỗ trợ chữ động giúp bạn tùy chỉnh cỡ chữ theo ý muốn</string>
+    <string name="drag_the_slider">Kéo thanh trượt bên dưới</string>
+    <string name="confirm_reset">Bạn có chắc chắn muốn khôi phục cài đặt mặc định?</string>
+
+</resources>
